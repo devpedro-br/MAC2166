@@ -1,5 +1,11 @@
 # MAC2166
-Exercícios da disciplina MAC2166 - Introdução à Computação.
+## Utilizando módulos em python:
+
+* [**Módulos python: Como utilizar mais de um arquivo .py para desenvolver um programa em python.**](https://github.com/devpedro-br/MAC2166/tree/master/modulos_python/)
+---
+* [**Matrizes: Funções para trabalhar com matrizes**](https://github.com/devpedro-br/MAC2166/tree/master/modulos_python/)
+---
+## Exercícios da disciplina MAC2166 - Introdução à Computação.
 
 * [**Exercício 01: Contar quantas vezes um dígito aparece em um número.**](https://github.com/devpedro-br/MAC2166/blob/master/exercicio_01.py)
 ---
