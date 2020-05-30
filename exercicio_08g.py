@@ -1,45 +1,47 @@
-# x = float(input('Digite x: '))
-# y = float(input('Digite y: '))
+'''
+Resolução do professor: Paulo Andre Vechiatto de Miranda
 
-# dentro = True
+Problema:
+Nota: Questão 1 da Prova 1 de 2014.
+Na figura, no plano cartesiano, a região sombreada não inclui as linhas de bordo. Note que o eixo y cai bem no meio da figura, e usamos o lado do quadrado para indicar as ordenadas correspondentes.
 
-# abs_x = abs(x)
+Escreva um programa que lê as coordenadas cartesianas (x, y) de um ponto, ambas do tipo float e imprime dentro se esse ponto está na região, e fora caso contrário.
 
-
-
-
-
-
-
-
-
-
-
-
-# # verificando se (x, y) está fora da face
-# if y >= 8 or y <= 0 or x <= -5 or x >= 5:
-#   dentro = False
-# # verificando se (x, y) está na boca
-# elif 1 <= y <= 2 and -3 <= x <= 3:
-#   dentro = False
-# # verificando se (x, y) está no olho direito
-# elif 1 <= x <= 4 and 4 <= y <= 7:
-#   dentro = False
-#   # verificando se (x, y) está na iris direita
-#   if 5 < y < 6 and 2 <x <3:
-#     dentro = True
-# # verificando se (x, y) está no olho esquerdo
-# elif -4 <= x <= -1 and 4 <= y <= 7:
-#   dentro = False
-#   # verificando se (x, y) está na iris direita
-#   if 5 < y < 6 and -3 < x < -2:
-#     dentro = True
-
-
-# if dentro:
-#   print('Dentro')
-# else:
-#   print('Fora')
+Resultado esperado:
+.........................................
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.....πππ.....πππππππ.....πππ.....πππ.
+.πππ.....πππ.....πππππππ.....πππ.....πππ.
+.πππ.....πππ.....πππππππ.....πππ.....πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππ.............πππππππ.............πππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππ.........................πππππππ.
+.πππππππ.........................πππππππ.
+.πππππππ.........................πππππππ.
+.πππππππ.........................πππππππ.
+.πππππππ.........................πππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.πππππππππππππππππππππππππππππππππππππππ.
+.........................................
+'''
 def testa_ponto(x, y):
   dentro = True
 

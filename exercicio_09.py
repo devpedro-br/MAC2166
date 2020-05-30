@@ -1,4 +1,18 @@
 '''
+Resolução do professor: Paulo Andre Vechiatto de Miranda
+
+Problema:
+Faça um programa que lê um número inteiro n, com n > 0, e que imprime o Triângulo de Pascal com n linhas.
+
+Para n = 5:
+1
+1    1
+1    2    1
+1    3    3    1
+1    4    6    4    1
+'''
+
+'''
 def binomial(n, k):
   numerador = fatorial(n)
   denominador = fatorial(k)*fatorial(n-k)

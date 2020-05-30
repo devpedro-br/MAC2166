@@ -1,3 +1,7 @@
+'''
+Resolução do professor: Paulo Andre Vechiatto de Miranda
+'''
+
 L = int(input('Digite L: '))
 
 y = L-1
