@@ -3,7 +3,7 @@
 
 * [**Módulos python: Como utilizar mais de um arquivo .py para desenvolver um programa em python.**](https://github.com/devpedro-br/MAC2166/tree/master/modulos_python/)
 ---
-* [**Matrizes: Funções para trabalhar com matrizes**](https://github.com/devpedro-br/MAC2166/tree/master/modulos_python/)
+* [**Matrizes: Funções para trabalhar com matrizes**](https://github.com/devpedro-br/MAC2166/tree/master/matriz/)
 ---
 ## Exercícios da disciplina MAC2166 - Introdução à Computação.
 
