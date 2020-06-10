@@ -5,6 +5,8 @@
 ---
 * [**Matrizes: Funções para trabalhar com matrizes.**](https://github.com/devpedro-br/MAC2166/tree/master/matriz/)
 ---
+* [**Campo Minado: Jogo do campo minado (por linha de comando).**](https://github.com/devpedro-br/MAC2166/tree/master/campo_minado)
+---
 ## Exercícios da disciplina MAC2166 - Introdução à Computação.
 
 * [**Exercício 01: Contar quantas vezes um dígito aparece em um número.**](https://github.com/devpedro-br/MAC2166/blob/master/exercicio_01.py)
